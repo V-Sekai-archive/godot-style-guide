@@ -2,6 +2,29 @@
 
 ## NOT IN EFFECT 2021-08-01
 
+
+<a name="1.1-examples"></a>
+#### 1.1 Examples
+
+##### 1.1e1 Alicia
+
+| Asset Type              | Asset Name                                                 |
+| ----------------------- | ---------------------------------------------------------- |
+| Character Mesh           | SK_Alicia                                                 |
+| Material                | M_Alicia                                                   |
+| Texture (Diffuse/Albedo)| T_Alicia_D                                                 |
+| Texture (Normal)        | T_Alicia_N                                                 |
+| Texture (Evil Diffuse)  | T_Alicia_Evil_D                                            |
+
+##### 1.1e2 Rocks
+
+| Asset Type              | Asset Name                                                 |
+| ----------------------- | ---------------------------------------------------------- |
+| Static Mesh (01)        | S_Rock_01                                                  |
+| Static Mesh (02)        | S_Rock_02                                                  |
+| Static Mesh (03)        | S_Rock_03                                                  |
+| Material                | M_Rock                                                     |
+
 # Example Project Content Structure
 
 ```
