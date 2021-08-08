@@ -10,7 +10,8 @@
 
 | Asset Type              | Asset Name                                                 |
 | ----------------------- | ---------------------------------------------------------- |
-| Character Mesh           | SK_Alicia                                                 |
+| Character Skeleton      | SKEL_Alicia                                                |
+| Character Mesh          | SK_Alicia                                                 |
 | Material                | M_Alicia                                                   |
 | Texture (Diffuse/Albedo)| T_Alicia_D                                                 |
 | Texture (Normal)        | T_Alicia_N                                                 |
